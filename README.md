@@ -8,6 +8,8 @@ Docker with Docker Compose. Nothing else needs to be installed on the host.
 
 ## Setup
 
+Important: **Docker Desktop** must be running.
+
 ```bash
 cp .env.example .env
 touch database/database.sqlite
